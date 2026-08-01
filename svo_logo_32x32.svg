@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="primary-gradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6a3be0" />
+      <stop offset="100%" stop-color="#b65aef" />
+    </linearGradient>
+  </defs>
+  <path d="M472 344V168c0-20.7-11.2-39.6-29.3-50l-153-88c-18.1-10.4-40.5-10.4-58.6 0l-153 88C59.9 128.4 48.7 147.3 48.7 168v176c0 20.7 11.2 39.6 29.3 50l153 88c18.1 10.4 40.5 10.4 58.6 0l153-88c18.1-10.4 29.3-29.3 29.3-50z" fill="#f4ebff" stroke="url(#primary-gradient)" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="278" font-family="Arial, sans-serif" font-size="150" font-weight="900" fill="url(#primary-gradient)" text-anchor="middle" alignment-baseline="middle">SVO</text>
+</svg>
