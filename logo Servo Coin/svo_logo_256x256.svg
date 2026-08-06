@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SVO Web3 token logo</title><desc id="desc">Rounded regular violet hexagon with luminous SVO lettering</desc>
+  <defs>
+    <linearGradient id="frame" x1="62" y1="452" x2="448" y2="58" gradientUnits="userSpaceOnUse"><stop stop-color="#210555"/><stop offset=".22" stop-color="#351079"/><stop offset=".5" stop-color="#5510A5"/><stop offset=".76" stop-color="#8129C9"/><stop offset="1" stop-color="#C99AEE"/></linearGradient>
+    <linearGradient id="frameHi" x1="112" y1="386" x2="391" y2="111" gradientUnits="userSpaceOnUse"><stop stop-color="#7040C7"/><stop offset=".45" stop-color="#E9D8FF"/><stop offset=".72" stop-color="#B883DC"/><stop offset="1" stop-color="#6A1DB4"/></linearGradient>
+    <radialGradient id="face" cx="0" cy="0" r="1" gradientTransform="translate(326 169) rotate(130) scale(304)" gradientUnits="userSpaceOnUse"><stop stop-color="#6F20BE"/><stop offset=".28" stop-color="#480B8A"/><stop offset=".66" stop-color="#230548"/><stop offset="1" stop-color="#080111"/></radialGradient>
+    <linearGradient id="type" x1="162" y1="195" x2="354" y2="312" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".2" stop-color="#F5F7FF"/><stop offset=".42" stop-color="#FFFFFF"/><stop offset=".68" stop-color="#E7EBF5"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+    <linearGradient id="shine" x1="132" y1="92" x2="382" y2="264" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity=".95"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".18"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="165%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#120025" flood-opacity=".75"/></filter>
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="typeShadow" x="-25%" y="-35%" width="150%" height="180%"><feDropShadow dx="0" dy="8" stdDeviation="5" flood-color="#05000B" flood-opacity=".9"/><feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#FFFFFF" flood-opacity=".38"/></filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <!-- regular hexagon with true quadratic rounded corners -->
+    <path d="M235.2 32Q256 20 276.8 32L439.6 126Q460.4 138 460.4 162V350Q460.4 374 439.6 386L276.8 480Q256 492 235.2 480L72.4 386Q51.6 374 51.6 350V162Q51.6 138 72.4 126Z" fill="url(#frame)"/>
+    <path d="M237.8 56.5Q256 46 274.2 56.5L418.7 140Q436.9 150.5 436.9 171.5V340.5Q436.9 361.5 418.7 372L274.2 455.5Q256 466 237.8 455.5L93.3 372Q75.1 361.5 75.1 340.5V171.5Q75.1 150.5 93.3 140Z" fill="none" stroke="url(#frameHi)" stroke-width="11"/>
+    <path d="M239.5 74.3Q256 64.8 272.5 74.3L403.1 149.7Q419.6 159.2 419.6 178.2V333.8Q419.6 352.8 403.1 362.3L272.5 437.7Q256 447.2 239.5 437.7L108.9 362.3Q92.4 352.8 92.4 333.8V178.2Q92.4 159.2 108.9 149.7Z" fill="url(#face)" stroke="#DBB7FF" stroke-width="5"/>
+    <path d="M120 154 232 89q24-14 48 0l105 61" fill="none" stroke="url(#shine)" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <path d="M235.5 93.2Q256 81.4 276.5 93.2L385 155.8Q405.5 167.6 405.5 191.2v125.6q0 23.6-20.5 35.4l-108.5 62.6Q256 426.6 235.5 414.8L127 352.2q-20.5-11.8-20.5-35.4V191.2q0-23.6 20.5-35.4Z" fill="none" stroke="#A94FF4" stroke-width="5" opacity=".95"/><path d="M238.8 107.3Q256 97.4 273.2 107.3l99.4 57.4q17.2 9.9 17.2 29.8v123q0 19.9-17.2 29.8l-99.4 57.4q-17.2 9.9-34.4 0l-99.4-57.4q-17.2-9.9-17.2-29.8v-123q0-19.9 17.2-29.8Z" fill="none" stroke="#E5C9FF" stroke-width="2.5" opacity=".68"/>
+  <g fill="none" stroke="#E5C9FF" stroke-width="4" stroke-linecap="round" opacity=".68">
+    <path d="M111 218h34l17-17h24M401 218h-34l-17-17h-24M111 294h34l17 17h24M401 294h-34l-17 17h-24M174 132l18 11h31M338 132l-18 11h-31M174 380l18-11h31M338 380l-18-11h-31"/>
+  </g>
+  <g fill="#FFFFFF" filter="url(#neon)"><circle cx="113" cy="221" r="4"/><circle cx="399" cy="221" r="4"/><circle cx="113" cy="291" r="4"/><circle cx="399" cy="291" r="4"/><circle cx="256" cy="82" r="4"/><circle cx="256" cy="430" r="4"/></g>
+  <g filter="url(#typeShadow)"><text x="256" y="303" text-anchor="middle" fill="#120326" stroke="#3E0A77" stroke-width="13" stroke-linejoin="round" font-family="Segoe UI,Arial,sans-serif" font-size="130" font-weight="800" letter-spacing="1">SVO</text><text x="256" y="295" text-anchor="middle" fill="url(#type)" stroke="#FFFFFF" stroke-width="4" paint-order="stroke" font-family="Segoe UI,Arial,sans-serif" font-size="130" font-weight="800" letter-spacing="1">SVO</text></g><g stroke="#FFFFFF" stroke-linecap="round" filter="url(#neon)"><path d="M356 147v18M347 156h18" stroke-width="3"/><path d="M154 342v14M147 349h14" stroke-width="2.5"/><path d="M382 272v12M376 278h12" stroke-width="2"/></g>
+</svg>
