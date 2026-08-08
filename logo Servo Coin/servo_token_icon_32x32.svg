@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="6" y1="4" x2="26" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9D4EFF"/>
+      <stop offset="1" stop-color="#5B21B6"/>
+    </linearGradient>
+    <radialGradient id="ig" cx="38%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#4E2A8C"/>
+      <stop offset="0.6" stop-color="#38205F"/>
+      <stop offset="1" stop-color="#241243"/>
+    </radialGradient>
+  </defs>
+  <path d="M 13.489,2.450 Q 16.000,1.000 18.511,2.450 L 26.479,7.050 Q 28.990,8.500 28.990,11.400 L 28.990,20.600 Q 28.990,23.500 26.479,24.950 L 18.511,29.550 Q 16.000,31.000 13.489,29.550 L 5.521,24.950 Q 3.010,23.500 3.010,20.600 L 3.010,11.400 Q 3.010,8.500 5.521,7.050 Z" fill="url(#fg)"/>
+  <path d="M 13.922,4.900 Q 16.000,3.700 18.078,4.900 L 24.574,8.650 Q 26.652,9.850 26.652,12.250 L 26.652,19.750 Q 26.652,22.150 24.574,23.350 L 18.078,27.100 Q 16.000,28.300 13.922,27.100 L 7.426,23.350 Q 5.348,22.150 5.348,19.750 L 5.348,12.250 Q 5.348,9.850 7.426,8.650 Z" fill="url(#ig)"/>
+  <text x="16" y="20.3" text-anchor="middle"
+        font-family="'Poppins','Montserrat','Segoe UI',Arial,sans-serif" font-weight="800"
+        font-size="9.5" letter-spacing="0.1" fill="#FFFFFF">SVO</text>
+</svg>

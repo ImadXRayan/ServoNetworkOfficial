@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="frameGrad3" x1="90" y1="60" x2="420" y2="450" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B06BFF"/>
+      <stop offset="1" stop-color="#6425C7"/>
+    </linearGradient>
+    <radialGradient id="fillGrad3" cx="38%" cy="32%" r="80%">
+      <stop offset="0" stop-color="#5B2FA3"/>
+      <stop offset="0.55" stop-color="#3C2166"/>
+      <stop offset="1" stop-color="#241243"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="256" cy="256" r="255" fill="url(#glow)"/>
+  <path d="M 216.163,39.000 Q 256.000,16.000 295.837,39.000 L 424.009,113.000 Q 463.846,136.000 463.846,182.000 L 463.846,330.000 Q 463.846,376.000 424.009,399.000 L 295.837,473.000 Q 256.000,496.000 216.163,473.000 L 87.991,399.000 Q 48.154,376.000 48.154,330.000 L 48.154,182.000 Q 48.154,136.000 87.991,113.000 Z" fill="url(#frameGrad3)"/>
+  <path d="M 223.091,79.000 Q 256.000,60.000 288.909,79.000 L 392.832,139.000 Q 425.741,158.000 425.741,196.000 L 425.741,316.000 Q 425.741,354.000 392.832,373.000 L 288.909,433.000 Q 256.000,452.000 223.091,433.000 L 119.168,373.000 Q 86.259,354.000 86.259,316.000 L 86.259,196.000 Q 86.259,158.000 119.168,139.000 Z" fill="url(#fillGrad3)"/>
+  <path d="M 223.091,79.000 Q 256.000,60.000 288.909,79.000 L 392.832,139.000 Q 425.741,158.000 425.741,196.000 L 425.741,316.000 Q 425.741,354.000 392.832,373.000 L 288.909,433.000 Q 256.000,452.000 223.091,433.000 L 119.168,373.000 Q 86.259,354.000 86.259,316.000 L 86.259,196.000 Q 86.259,158.000 119.168,139.000 Z" fill="none" stroke="#E4D2FF" stroke-opacity="0.45" stroke-width="2.5"/>
+</svg>
