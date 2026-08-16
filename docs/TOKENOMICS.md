@@ -33,7 +33,7 @@ This table is taken from constants in the reviewed token contract. It supersedes
 - Payment asset in supported marketplace escrow orders.
 - Staking through the deployed staking contract.
 - Activity rewards through a signed-voucher airdrop contract.
-- Presale distribution through `SVOPresaleV2`.
+- Presale distribution through the active `SVOPresaleV3` contract at `0xdBf44AEEfa43C715fb813b20f6d19F87BD6BDB5a`.
 - Application documentation describes a seller-fee reduction for stakers; **TODO: independently verify current eligibility and enforcement before treating this as guaranteed utility**.
 - Governance appears as a future concept; it is not established as binding live governance.
 
@@ -50,4 +50,3 @@ The owner can pause transfers, manage a blacklist, change limit exclusions, adju
 - **Unverified:** legal or regulatory classification in any jurisdiction.
 
 SVO documentation is informational only and is not financial advice.
-
